@@ -13,5 +13,5 @@ imgs/*
 # machine learning models
 mtCNNModels/*
 !mtCNNModels/README.md
-facenetModels/*
+#facenetModels/*
 !facenetModels/README.md
